@@ -15,7 +15,7 @@
 ## 🎬 Project Preview
 
 <p align="center">
-  <img src="./cyberfiction-demo.gif"
+  <img src="./cyberfiction-demo (1).gif"
        alt="Cyberfiction project preview"
        width="100%">
 </p>
