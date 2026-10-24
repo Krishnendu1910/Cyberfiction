@@ -12,6 +12,14 @@
   <img src="https://img.shields.io/badge/Locomotive_Scroll-111111?style=for-the-badge" alt="Locomotive Scroll" />
 </p>
 
+## 🎬 Project Preview
+
+<p align="center">
+  <img src="./cyberfiction-demo.gif"
+       alt="Cyberfiction project preview"
+       width="100%">
+</p>
+
 ---
 
 ## 🌀 About the Project
